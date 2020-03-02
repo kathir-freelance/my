@@ -1,0 +1,48 @@
+
+LiveScript
+
+ES -standard
+
+ js
+
+	 VanillaScript
+
+	 Cofeescript
+
+	 OOJS - obj oriented JS
+
+	 ES3...ES2015(ES6)..ES7...
+
+	 TS
+
+Compiler
+Transpilers
+
+browser specific JS VM -
+
+	IE edge- 
+	chrome-
+	firfox-	
+
+JS framework 
+
+	backbone.js
+	ext.js
+        vue
+	React
+	angular
+
+Runtime Environment
+
+	Node -v->10
+
+DOM
+	Document Obj Model(html page)
+	
+BOM 
+	Browser Obj Model (window) 
+  
+variable declaration
+
+	
+

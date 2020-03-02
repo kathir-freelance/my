@@ -1,0 +1,26 @@
+<html>
+<script>
+function add() {
+
+//Create an input type dynamically.
+var element = document.createElement("div");
+var elem=document.createElement("p");
+
+
+elem.innerHTML = "<h1>welcome to dynamic tag creation</h1>";     
+
+//Assign different attributes to the element.
+element.setAttribute("id","mydiv");
+element.setAttribute("style", "color:red");
+
+var dyn=document.getElementById("mydiv");
+//Append the element in page (in span).
+dyn.appendChild(elem);
+document.write(element);
+}
+</script>
+<body>
+	<button id="button" value="Add" onClick="add();">click</button>
+</body>
+</html>
+
